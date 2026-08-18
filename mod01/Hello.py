@@ -1,2 +1,2 @@
 
-print("Kiva nähdä")
+print("Kiva päivä")
